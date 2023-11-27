@@ -24,3 +24,4 @@ for (const num of arr) {
 
 console.log(counts);
 console.log(counts[a], counts[b], counts[d], counts[y]);
+//this is where i check to see my new branch
